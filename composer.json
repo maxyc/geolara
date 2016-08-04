@@ -1,0 +1,19 @@
+{
+    "name": "maxyc/geolara",
+    "description": "Geography package for Laravel.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxyc Webber",
+            "email": "maxycws@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Maxyc": "src/"
+        }
+    }
+}
